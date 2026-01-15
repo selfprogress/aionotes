@@ -57,9 +57,6 @@
 | [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) | Edit Excel spreadsheets and CSV files in Visual Studio Code and VS Code for the Web. |
 | [Codeium: AI](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) | The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster. |
 | [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | This allows you to open the current file in your default browser or application.|
-
-
-GistID : c582b50d9a58c4ee3c432c158d3b0cad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDg0OTI0Nl19
+eyJoaXN0b3J5IjpbLTIxMDE1OTY1NDQsMTEwMDg0OTI0Nl19
 -->
